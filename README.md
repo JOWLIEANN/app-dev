@@ -1,9 +1,9 @@
-# app-dev
- 3 Favorite Series
+## app-dev
+ #3 Favorite Series
  ***
    1. Extra Ordinary You
-      " If you get hurt by every tiny thing, you won't be able to survive in this cruel world".
+    -  " If you get hurt by every tiny thing, you won't be able to survive in this cruel world".
    2. True Beuty
-      " There's nothing you can do for a dead person. So, don't die".
+    -  " There's nothing you can do for a dead person. So, don't die".
    3. Crash Landing On You
-      " Loneliness is better that pain".
+    -  " Loneliness is better that pain".

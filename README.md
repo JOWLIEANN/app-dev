@@ -1,2 +1,2 @@
 # app-dev
-Favorite series is Extra Ordinary You.
+# Favorite series is Extra Ordinary You.

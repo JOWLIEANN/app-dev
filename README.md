@@ -1,2 +1,2 @@
 # app-dev
-My first repository
+Favorite series is Extra Ordinary You.
